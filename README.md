@@ -26,20 +26,21 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 6. Tarkista kaikki lasit vääristymisen tai halkeamien varalta.
 7. Tarkista, että tuulilasi ja tuulilasin verhoilu ovat oikein.
 8. Tarkista kattolasin ja takaikkunan kaikki reunat.
+9. Tarkista rekisterikilvet
+10. Tarkista kaikki etu- ja takavalot sekä etuikkunan kamera tiivistyneen veden varalta.
 
 #### Ovet
-9. Testaa kaikki ovet varmistaaksesi, että ne aukeavat ja sulkeutuvat ilman kohtuutonta vaivaa. 
-9a. Varmista, että oven ikkunat sulkeutuvat täysin, kun ovet ovat kiinni.
-9b. Maalitarkastus, ovien karmit (ovi + auton kori)
-9c. Maalitarkastus, ovien saranoiden ympäriltä
+a. Testaa kaikki ovet varmistaaksesi, että ne aukeavat ja sulkeutuvat ilman kohtuutonta vaivaa. 
+b. Varmista, että oven ikkunat sulkeutuvat täysin, kun ovet ovat kiinni.
+c. Maalitarkastus, ovien karmit (ovi + auton kori)
+d. Maalitarkastus, ovien saranoiden ympäriltä
 
-10. Testaa rungon ja rungon avaaminen ja sulkeminen. Tarkista maali alueilta, jotka eivät ole näkyvissä, kun kansi ja tavaratila ovat kiinni. Jotkut toimitukset ovat ilmoittaneet puutteellisesta korin maalaamisesta piilossa olevilla alueilla.
-2d. Etu/takaluukun sisäpuolelta
-2e. Etu/takaluukun saranoiden ympäriltä
+#### Etu- & Takaluukku
+a. Testaa etu- ja takaluukun avaaminen ja sulkeminen, että toimii ongelmitta
+b. Tarkista, että hinaussilmukka on etuluukun maton alla.
+c. Maalitarkastus, Etu/takaluukun sisäpuolelta
+d. Maalitarkastus, Etu/takaluukun saranoiden ympäriltä
 
-11. Tarkista, että hinaussilmukka on maton alla.
-13. Tarkista etulevyn kiinnike (jos valtiossasi soveltuu).
-14. Tarkista kaikki etu- ja takavalon ulkovalot sisäisen tiivistymisen varalta.
 
 ### C OSA - Sisätarkastus
 1. Tarkkaile näytön virheviestejä.
