@@ -11,7 +11,6 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 6. Ota mukaan taskulamppu, varsinkin jos luovutusajankohtana on hämärää tai pimeää.
 
 ## Luovutuspäivän henkilökohtainen ajoneuvotarkastus:
-* HUOMAUTUS: Älä allekirjoita lopullisia asiakirjoja tai rahansiirtovälineitä, ennen kuin ajoneuvon täydellinen tarkastus on suoritettu loppuun.
 
 ### OSA A - Varmista ennen toimitusta toimitetut ajoneuvotiedot
 1. Tarkista, onko paperilla oikea nimi ja osoite.
