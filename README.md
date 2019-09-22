@@ -100,7 +100,7 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 
 ### OSA F - Tarkista avainkortti ja älypuhelimen appis
 1. Testaa molemmat avainkortit varmistaaksesi, että ne toimivat autosi kanssa. Pidä yksi avainkortti mukana, jos puhelinsovellus ei toimi oikein.
-2. Yhdistää älypuhelin autoosi Bluetooth-yhteyden kautta (vaadi että puhelin laitetaan toimimaan luovutuksen yhteydessä)
+2. Yhdistä älypuhelin autoosi ja varmista että se toimii avaimena (vaadi että puhelin laitetaan toimimaan luovutuksen yhteydessä)
 
 ## Jälkitarkastus:
 Muista tehdä luovuksen yhdeydessä ja myöhemmin havaituista virheistä huoltopyyntö (service request) Teslan appiksen kautta *60 päivän sisällä*.
