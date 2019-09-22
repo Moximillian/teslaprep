@@ -62,7 +62,7 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 14. Tarkista, että sivupeilien taitto ja asennon säätö toimii moitteettomasti.
 15. Tarkista kummankin aurinkosuojan toiminta ja peilin kunto sekä peilivalon toiminta.
 
-### OSA D - Valaistarkastus
+### OSA D - Valotarkastus
 
 #### Kuljettaja ja viereinen etuistuin
 1. yläpuoliset sisävalot
