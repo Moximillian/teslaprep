@@ -29,43 +29,42 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 10. Tarkista kaikki etu- ja takavalot sekä etuikkunan kamera tiivistyneen veden varalta.
 
 #### Ovet
-a. Testaa kaikki ovet varmistaaksesi, että ne aukeavat ja sulkeutuvat ilman kohtuutonta vaivaa. 
-b. Varmista, että oven ikkunat sulkeutuvat täysin, kun ovet ovat kiinni.
-c. Maalitarkastus, ovien karmit (ovi + auton kori)
-d. Maalitarkastus, ovien saranoiden ympäriltä
+1. Testaa kaikki ovet varmistaaksesi, että ne aukeavat ja sulkeutuvat ilman kohtuutonta vaivaa. 
+2. Varmista, että oven ikkunat sulkeutuvat täysin, kun ovet ovat kiinni.
+3. Maalitarkastus, ovien karmit (ovi + auton kori)
+4. Maalitarkastus, ovien saranoiden ympäriltä
 
 #### Etu- & Takaluukku
-a. Testaa etu- ja takaluukun avaaminen ja sulkeminen, että toimii ongelmitta
-b. Tarkista, että hinaussilmukka on etuluukun maton alla.
-c. Maalitarkastus, Etu/takaluukun sisäpuolelta
-d. Maalitarkastus, Etu/takaluukun saranoiden ympäriltä
-
+1. Testaa etu- ja takaluukun avaaminen ja sulkeminen, että toimii ongelmitta
+2. Tarkista sisävalaistus luukuissa
+3. Tarkista, että hinaussilmukka on etuluukun maton alla.
+4. Tarkista, että takakontissa latausjohdot on mukana (Type-2 johto, UMC laturi johtoineen ja siihen 2 päätä (Schuko ja caravan))
+5. Tarkista, että takakontissa on ensiapulaukku
+6. Maalitarkastus, Etu/takaluukun sisäpuolelta
+7. Maalitarkastus, Etu/takaluukun saranoiden ympäriltä
 
 ### C OSA - Sisätarkastus
 1. Tarkkaile näytön virheviestejä.
-2. Kosketa näytön yläosassa olevaa Tesla T -painiketta, jolloin esiin tulee Tietoja Teslasta -ikkuna. Napauta yksisarvinen piirros päästäksesi luonnokseen. Jätä luonnoslevy hetkeksi ylöspäin varmistaaksesi, että näytössä ei ole fantomikosketuksia.
-3. Testaa kuljettajan ja matkustajan oven hätävapautus.
-4. Tarkista kaikki 4 ikkunaa varmistaaksesi, että ne avautuvat ja sulkeutuvat kunnolla.
-5. Tarkasta istuimen sisäverhoilu, oven pinnat, kojelauta, päähine ja matot (mukaan lukien matkustajatila, tavaratila ja tavaratila).
+2. Kosketa näytön yläosassa olevaa Tesla T -painiketta, jolloin esiin tulee Tietoja Teslasta -ikkuna. Napauta yksisarvinen piirrosta päästäksesi Sketch Padiin. Kun piirrosohjelma on auki (valkoinen sivu), tarkasta että ruudussa ei ole keltaisia reunoja (värivirheitä)
+3. Testaa kuljettajan ja matkustajan oven hätävapautus (VAROITUS: jos kokeilet, tämä voi vahingoittaa ikkunoita)
+4. Rullaa kaikki 4 ikkunaa alas & ylös varmistaaksesi, että ne toimivat kunnolla.
+5. Tarkasta istuimen sisäverhoilu, oven sisäpinnat, kojelauta, sisäkatto ja matot.
 6. Tarkista vasemman ja oikean vaatekoukun toiminta.
 7. Tarkista kaikkien turvavyöjen toiminta.
 8. Tarkista takaistuimien oikea taittaminen.
-9. Testaa äänijärjestelmää varmistaaksesi, että kaikki kaiuttimet toimivat (siirrä häivytys / tasapaino kaikkiin neljään pisteeseen tarkistaaksesi)
-10. Testaa ohjauspyörän asennon säätimet oikean toiminnan varmistamiseksi.
+9. Testaa äänijärjestelmää varmistaaksesi, että kaikki kaiuttimet toimivat (siirrä häivytys / tasapaino kaikkiin neljään kulmaan tarkistaaksesi)
+10. Testaa ohjauspyörän asennon säätimet.
 11. Paina ohjauspyörän keskustaa varmistaaksesi, että auton äänitorvi toimii.
-12. Testaa tuulilasinpyyhkimet.
-13. Testaa taustakamera.
-14. Tarkista sivupeilien taitto ja asennon säätö moitteettomasti.
-15. Tarkista aurinkosuojan toiminta ja peilin kunto.
+12. Testaa tuulilasinpyyhkimet (katso auton ulkopuolelta pyyhkimien toimintaa, etteivät liiku yli ikkunasta).
+13. Testaa peruutuskamera.
+14. Tarkista, että sivupeilien taitto ja asennon säätö toimii moitteettomasti.
+15. Tarkista aurinkosuojan toiminta ja peilin kunto sekä peilivalon toiminta.
 
 ### OSA D - Valaistarkastus
-1. Turhamaisuuspeilivalot.
-2. Etu kuljettajan ja matkustajan valot.
-3. Takaosa vasen ja oikea sivutuuli.
-4. Ympäristön valot
-5. Kuljettajan ja matkustajan jalan kaivot
-6. Kuljettajan ja matkustajan ovitaskut
-7. Takaosan vasemman ja oikean oven taskut.
+
+#### Kuljettaja ja viereinen etuistuin
+1. yläpuoliset sisävalot sekä ovitaskut
+2. jalkatilan valot
 8. Kuljettajan ja matkustajan ovi lämmittävät valot.
 9. Konsolin keskilokeron valo.
 10. Konsolin takaosan valo.
@@ -73,8 +72,12 @@ d. Maalitarkastus, Etu/takaluukun saranoiden ympäriltä
 12. Kaikki ovi-ikkunan painikevalot.
 13. Ohjauspyörän ohjausvalot.
 14. Käsinelaatikon valo (tarkista, että käsinelaatikko avautuu ja sulkeutuu).
-15. Frunk valo.
-16. Tavaratilan valot (2).
+
+#### Takapenkki
+2. Vasen ja oikea sivuvalo sekä ovitaskujen valot
+
+
+#### Ulkopuolella olevat valot
 17. Sumuvalot.
 19. Ajovalot (lähivalot ja kaukovalot).
 20. Puiston etuvalot.
