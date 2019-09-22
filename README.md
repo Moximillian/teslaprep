@@ -103,4 +103,4 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 2. Yhdistää älypuhelin autoosi Bluetooth-yhteyden kautta (vaadi että puhelin laitetaan toimimaan luovutuksen yhteydessä)
 
 ## Jälkitarkastus:
-Muista tehdä luovuksen yhdeydessä ja myöhemmin havaituista virheistä huoltopyyntö Teslan appiksen kautta *30 päivän sisällä*.
+Muista tehdä luovuksen yhdeydessä ja myöhemmin havaituista virheistä huoltopyyntö (service request) Teslan appiksen kautta *60 päivän sisällä*.
