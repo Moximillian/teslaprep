@@ -103,4 +103,4 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 2. Yhdistä älypuhelin autoosi ja varmista että se toimii avaimena (vaadi että puhelin laitetaan toimimaan luovutuksen yhteydessä)
 
 ## Jälkitarkastus:
-Muista tehdä luovuksen yhdeydessä ja myöhemmin havaituista virheistä huoltopyyntö (service request) Teslan appiksen kautta *60 päivän sisällä*.
+Muista tehdä luovuksen yhdeydessä havaituista virheistä (ja myöhemmin havaituista virheistä) huoltopyyntö (service request) Teslan appiksen kautta *60 päivän sisällä*.
