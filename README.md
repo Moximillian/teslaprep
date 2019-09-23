@@ -3,7 +3,7 @@ Tesla-mallin 3 luovutuspäivän opas.
 Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/master/README.md
 
 ## Luovutuspäivänä, ennen saapumista:
-1. Pyydä Tesla-sovellus asennettuna älypuhelimeesi ennen saapumista toimitettavaksi.
+1. Asenna Tesla app puhelimesi sovelluskaupasta valmiiksi ja kirjaudu omilla Tesla-tunnuksillasi.
 2. Tuo ajokortti.
 3. Jos autosi rekisteröidään useammalle kuin yhdelle henkilölle, jokaisen rekisteröinnissä olevan henkilön on oltava toimitusaikaan allekirjoittaakseen lopulliset asiakirjat.
 4. Tuo kirjallinen tai digitaalinen todistus käsirahasi suorittamisesta ja loppumaksun tai rahoitustiedot. Jos rahoitat autoasi, varmista, että lainasi on rahoitettu ennen saapumistasi vastaanottamiseen ja että sinulla on jonkinlainen todiste, jonka voit antaa Teslalle, jos he kysyvät siitä.
