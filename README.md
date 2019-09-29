@@ -24,7 +24,7 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 2. Tarkasta korin ulkopintamaali virheiden varalta (yleisesti ulkopinnat, käytä taskulamppua).
 3. Tarkista ajoneuvon pohja (edessä ja takana) vaurioiden varalta.
 4. Tarkista, onko rungon paneelissa mitään ilmeisiä virheitä tai vääriä asentoja.
-5. Erityisesti tarkista että sivupeilien etupuolella oleva metallipaneelin kärki on irti rungosta (ks.) 
+5. Erityisesti tarkista että sivupeilien etupuolella oleva metallipaneelin kärki on irti rungosta, ks. [Front panel gap](https://github.com/Moximillian/teslaprep/raw/master/front-panel-gap.jpg)
 6. Tarkista kaikki lasit vääristymisen tai halkeamien varalta.
 7. Takalasin asento suhteessa ympäröivään runkoon (n. 2-3mm välitystä joka puolella).
 8. Tarkista, että tuulilasi ja tuulilasin verhoilu ovat oikein.
