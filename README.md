@@ -22,7 +22,8 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 2. Tarkasta korin ulkopintamaali virheiden varalta (yleisesti ulkopinnat, käytä taskulamppua).
 3. Tarkista ajoneuvon pohja (edessä ja takana) vaurioiden varalta.
 4. Tarkista, onko rungon paneelissa mitään ilmeisiä virheitä tai vääriä asentoja.
-6. Tarkista kaikki lasit vääristymisen tai halkeamien varalta.
+5. Tarkista kaikki lasit vääristymisen tai halkeamien varalta.
+6. Takalasin asento suhteessa ympäröivään runkoon (n. 2-3mm välitystä joka puolella).
 7. Tarkista, että tuulilasi ja tuulilasin verhoilu ovat oikein.
 8. Tarkista kattolasin ja takaikkunan kaikki reunat.
 9. Tarkista rekisterikilvet
@@ -33,7 +34,7 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 2. Varmista, että oven ikkunat sulkeutuvat täysin, kun ovet ovat kiinni.
 3. Maalitarkastus, ovien karmit (ovi + auton kori)
 4. Maalitarkastus, ovien saranoiden ympäriltä
-5. Kuljettajan ja matkustajan maata valaisevat ovivalot (puddle light)
+5. Kuljettajan ja matkustajan maata valaisevatlätäkkövalot ovissa (puddle light, SR+:ssa vain normaalit alaspäin suuntautuvat ovivalot)
 
 
 #### Etu- & Takaluukku
@@ -104,3 +105,6 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 
 ## Jälkitarkastus:
 Muista tehdä luovuksen yhdeydessä havaituista virheistä (ja myöhemmin havaituista virheistä) huoltopyyntö (service request) Teslan appiksen kautta *60 päivän sisällä*.
+
+--
+You can use my referral link to get 1.500 free Supercharger km on a new Tesla: https://ts.la/mox90770
