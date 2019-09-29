@@ -9,6 +9,8 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 4. Tuo kirjallinen tai digitaalinen todistus käsirahasi suorittamisesta ja loppumaksun tai rahoitustiedot. Jos rahoitat autoasi, varmista, että lainasi on rahoitettu ennen saapumistasi vastaanottamiseen ja että sinulla on jonkinlainen todiste, jonka voit antaa Teslalle, jos he kysyvät siitä.
 5. Varmista että vakuutuksestä on todistus MyTesla sivulla.
 6. Ota mukaan taskulamppu, varsinkin jos luovutusajankohtana on hämärää tai pimeää.
+7. Jos luovutuspäivä on lähellä kvartaalin loppua (kuun loppupuoli: syyskuu, joulukuu, maaliskuu, kesäkuu), autoja tulee paljon ja kiireessä voi esim. kuljetuksen aikaisia sattumia jäädä epähuomiossa paikkaamatta. Niistä vaan huomautus ja huoltopyyntö niin korjaavat.
+8. Iloista mieltä, uusi mahtava auto tulossa!
 
 ## Luovutuspäivän henkilökohtainen ajoneuvotarkastus:
 
@@ -32,9 +34,9 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 #### Ovet
 1. Testaa kaikki ovet varmistaaksesi, että ne aukeavat ja sulkeutuvat ilman kohtuutonta vaivaa. 
 2. Varmista, että oven ikkunat sulkeutuvat täysin, kun ovet ovat kiinni.
-3. Maalitarkastus, ovien karmit (ovi + auton kori)
-4. Maalitarkastus, ovien saranoiden ympäriltä
-5. Kuljettajan ja matkustajan maata valaisevatlätäkkövalot ovissa (puddle light, SR+:ssa vain normaalit alaspäin suuntautuvat ovivalot)
+3. Maalitarkastus, ovien karmit (ovi + auton kori), myös mahdolliset naarmut
+4. Maalitarkastus, ovien saranoiden ympäriltä, myös mahdolliset naarmut
+5. Kuljettajan ja matkustajan maata valaisevat lätäkkövalot ovissa (puddle light, SR+:ssa vain normaalit alaspäin suuntautuvat ovivalot)
 
 
 #### Etu- & Takaluukku
@@ -83,7 +85,7 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 5. oven ikkunapainikevalot
 
 #### Ulkopuolella olevat valot
-1. Sumuvalot.
+1. Sumuvalot (SR+:ssa vain takavalo, edessä pelkät mustat muovit)
 2. Ajovalot (lähivalot ja kaukovalot).
 3. Edestä parkkivalot.
 4. Etuvilkkuvalot.
