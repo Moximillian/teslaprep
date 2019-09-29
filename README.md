@@ -24,12 +24,13 @@ Vielä kattavammat ohjeet englanniksi: https://github.com/mykeln/teslaprep/blob/
 2. Tarkasta korin ulkopintamaali virheiden varalta (yleisesti ulkopinnat, käytä taskulamppua).
 3. Tarkista ajoneuvon pohja (edessä ja takana) vaurioiden varalta.
 4. Tarkista, onko rungon paneelissa mitään ilmeisiä virheitä tai vääriä asentoja.
-5. Tarkista kaikki lasit vääristymisen tai halkeamien varalta.
-6. Takalasin asento suhteessa ympäröivään runkoon (n. 2-3mm välitystä joka puolella).
-7. Tarkista, että tuulilasi ja tuulilasin verhoilu ovat oikein.
-8. Tarkista kattolasin ja takaikkunan kaikki reunat.
-9. Tarkista rekisterikilvet
-10. Tarkista kaikki etu- ja takavalot sekä etuikkunan kamera tiivistyneen veden varalta.
+5. Erityisesti tarkista että sivupeilien etupuolella oleva metallipaneelin kärki on irti rungosta (ks.) 
+6. Tarkista kaikki lasit vääristymisen tai halkeamien varalta.
+7. Takalasin asento suhteessa ympäröivään runkoon (n. 2-3mm välitystä joka puolella).
+8. Tarkista, että tuulilasi ja tuulilasin verhoilu ovat oikein.
+9. Tarkista kattolasin ja takaikkunan kaikki reunat.
+10. Tarkista rekisterikilvet
+11. Tarkista kaikki etu- ja takavalot sekä etuikkunan kamera tiivistyneen veden varalta.
 
 #### Ovet
 1. Testaa kaikki ovet varmistaaksesi, että ne aukeavat ja sulkeutuvat ilman kohtuutonta vaivaa. 
